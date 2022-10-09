@@ -1,0 +1,13 @@
+name: ZunaDashboard
+title: ZunaDashboard
+username:
+account: allavinner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7249222
+bundleId: 6384153
+url: https://allavinner.shinyapps.io/ZunaDashboard/
+when: 1665303372.77779
+lastSyncTime: 1665303372.77779
+asMultiple: FALSE
+asStatic: FALSE
